@@ -1,1 +1,1 @@
-# Daily_Updates
+August 2024 - Relocating to Hyderabad. Changes in the environment and the time needed to adjust not to the tech but the the place. Will be back soon need some more time regarding stay. May be sept works
