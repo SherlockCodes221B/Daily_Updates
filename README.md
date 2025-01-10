@@ -9,3 +9,4 @@ date 12th -- As i got stabilised i got into accident fracturing my hand. Took on
 
 Jan 8 - 2025 - Lest start right!
 Jan 9 - 2025 - Jenkins study for work. Seeming to shift to devops. Will be studying more deep learning models
+Jan 10 - 2025 - studying Tensorflow mnsit model to solve first deep learning model
