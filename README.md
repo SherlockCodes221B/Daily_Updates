@@ -11,3 +11,4 @@ Jan 8 - 2025 - Lest start right!
 Jan 9 - 2025 - Jenkins study for work. Seeming to shift to devops. Will be studying more deep learning models
 Jan 10 - 2025 - studying Tensorflow mnsit model to solve first deep learning model
 Jan 15 - 2025 -  explore repositories
+Jan 27 - 2025 -  Outof ideas over machine learning. 
