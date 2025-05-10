@@ -15,3 +15,5 @@ Jan 27 - 2025 -  Outof ideas over machine learning.
 
 
 Need to get updated - 4/9/2025
+
+Lot of work on devops. seems interesting as it involves lot of DSA and os implementations. Intrigued with tech stack. need to up the game
