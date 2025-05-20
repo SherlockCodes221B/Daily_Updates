@@ -20,3 +20,5 @@ Lot of work on devops. seems interesting as it involves lot of DSA and os implem
 
 
 Codex relased. Seems like it can change the legacy code too. Not sure where dev is heading. But need to be at the top to keep up and continue this coding passion. Its just not about passion anymore i think it has become a necessity to be top because of dev. Just a thought thats it
+
+I need to start doing project. I am a part of org with my friends, need some inputs there. Need to finalise my final path. Its going way different than anything multiple openinnings 
