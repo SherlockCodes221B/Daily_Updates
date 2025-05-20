@@ -17,3 +17,6 @@ Jan 27 - 2025 -  Outof ideas over machine learning.
 Need to get updated - 4/9/2025
 
 Lot of work on devops. seems interesting as it involves lot of DSA and os implementations. Intrigued with tech stack. need to up the game
+
+
+Codex relased. Seems like it can change the legacy code too. Not sure where dev is heading. But need to be at the top to keep up and continue this coding passion. Its just not about passion anymore i think it has become a necessity to be top because of dev. Just a thought thats it
